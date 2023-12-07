@@ -25,7 +25,7 @@ Welcome to your new 3D portfolio website! This React-based project is designed t
 
 Follow these steps to set up the project on your local machine:
 
-1. Clone the repository: `git clone https://github.com/your-username/3d-portfolio.git`
+1. Clone the repository: `git clone https://github.com/shyalan/3D-Portfolio.git`
 2. Navigate to the project directory: `cd 3d-portfolio`
 3. Install dependencies: `npm install`
 
